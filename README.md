@@ -1,4 +1,4 @@
-# davedkg-rails-starter
+# ajax-modal-using-stimulusjs-on-rails
 
 ## Local Setup
 
